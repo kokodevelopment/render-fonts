@@ -12,7 +12,14 @@ const getFonts = function () {
         'Marker': require('base64-loader!./Knewave.ttf'),
         'Curly': require('base64-loader!./Griffy-Regular.ttf'),
         'Pixel': require('base64-loader!./Grand9K-Pixel.ttf'),
-        'Scratch': require('base64-loader!./Scratch.ttf')
+        'Scratch': require('base64-loader!./Scratch.ttf'),
+        'Technological': require('base64-loader!./MonospaceBold.ttf'),
+        'Bubbly': require('base64-loader!./QTKooper.otf'),
+        'Bits and Bytes': require('base64-loader!./freecam-v2.ttf'),
+        'Playful': require('base64-loader!./BadComic-Regular.ttf'),
+        'Arcade': require('base64-loader!./PressStart2P.ttf'),
+        'Archivo': require('base64-loader!./Archivo-Regular.ttf'),
+        'Archivo Black': require('base64-loader!./Archivo-Black.ttf')
     };
     /* eslint-enable global-require */
 
