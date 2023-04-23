@@ -3,7 +3,7 @@ name: Node.js CI
 on:
   push:
   pull_request:
-  workflow-dispatch:
+  workflow_dispatch:
 
 jobs:
   build:
